@@ -1,0 +1,14 @@
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\bin\Debug\net8.0\LojaXExemplo.exe
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\bin\Debug\net8.0\LojaXExemplo.deps.json
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\bin\Debug\net8.0\LojaXExemplo.runtimeconfig.json
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\bin\Debug\net8.0\LojaXExemplo.dll
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\bin\Debug\net8.0\LojaXExemplo.pdb
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.AssemblyInfoInputs.cache
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.AssemblyInfo.cs
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.csproj.CoreCompileInputs.cache
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.dll
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\refint\LojaXExemplo.dll
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.pdb
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.genruntimeconfig.cache
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\ref\LojaXExemplo.dll
