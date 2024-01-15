@@ -12,3 +12,4 @@ C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\
 C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.pdb
 C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.genruntimeconfig.cache
 C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\ref\LojaXExemplo.dll
+C:\Users\herorickygames\source\repos\LojaXExemplo\LojaXExemplo\obj\Debug\net8.0\LojaXExemplo.sourcelink.json
